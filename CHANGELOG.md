@@ -1,4 +1,6 @@
-<!-- 9196733 1480630288000 -->
+<!-- f7e08de 1495033469000 -->
+
+## [v1.1.1](https://github.com/niksoper/versioning-react-native-app/commit/f7e08de) (2017-05-17)
 
 ## [v1.1.0](https://github.com/niksoper/versioning-react-native-app/commit/9196733) (2016-12-01)
 
