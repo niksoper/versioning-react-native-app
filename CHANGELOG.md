@@ -1,4 +1,6 @@
-<!-- 0692ff8 1480630256000 -->
+<!-- 9196733 1480630288000 -->
+
+## [v1.1.0](https://github.com/niksoper/versioning-react-native-app/commit/9196733) (2016-12-01)
 
 * [[`0692ff8`](https://github.com/AndrewJack/versioning-react-native-app/commit/0692ff8)] Set upstream branch
 
